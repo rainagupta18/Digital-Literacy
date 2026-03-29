@@ -8,6 +8,8 @@ As a Student Digital Ambassador, the goal was to explore various aspects such as
 - Inforgraphic
   * What is digital literacy
   * Its importance
+  * email etiquette
+  * safe internet practices
 - Tool USed : Canva
 
 ### Task 2
